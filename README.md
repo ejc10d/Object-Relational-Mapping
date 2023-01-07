@@ -7,7 +7,7 @@ This challenge takes an already functioning Express.js API and configures it to 
 To run this application you must have all the code. Then, open the command line, start mysql, run the schema, seed the created database and start the application. After that you have to check the information using either Postman or Isomnia (or similar programs).
 
 ## Screen Shots
-The following shows the information being seeded into the database as well as the successful get response of all products from Postman: ![CLI view](./assets/images/screenshot1)![Postman view](./assets/images/screenshot2).
+The following shows the information being seeded into the database as well as the successful get response of all products from Postman: ![CLI view](./assets/images/screenshot1.png)![Postman view](./assets/images/screenshot2.png).
 
 ## Link
-This [link](youtube.com) will take you to a video where you can see this application on full display.
+This [link](https://youtu.be/6gNAbgRS9xE) will take you to a video where you can see this application on full display.

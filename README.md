@@ -10,4 +10,4 @@ To run this application you must have all the code. Then, open the command line,
 The following shows the information being seeded into the database as well as the successful get response of all products from Postman: ![CLI view](./assets/images/screenshot1.png)![Postman view](./assets/images/screenshot2.png).
 
 ## Link
-This [link](https://youtu.be/6gNAbgRS9xE) will take you to a video where you can see this application on full display.
+This [link](https://drive.google.com/file/d/17sAhLAk8WD5ON2z4-VQ9FO-xiSarxWUh/view) will take you to a video where you can see this application on full display.
